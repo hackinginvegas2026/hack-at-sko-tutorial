@@ -1,0 +1,11 @@
+# gstack-codex workflow scaffolding (local agent tooling, not app code)
+.agents/
+AGENTS.md
+.gstack-codex-txn/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
